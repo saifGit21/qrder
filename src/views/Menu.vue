@@ -67,8 +67,6 @@ h3 {
   color: white;
   background-color: black;
   padding: 20px;
-  width: 100%;
-  position: fixed;
 }
 .title {
   font-size: 20px;
